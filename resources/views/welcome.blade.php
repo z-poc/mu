@@ -56,7 +56,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="mu-about-left">
-                                <img class="" src="storage/about.jpg" alt="Men Speaker">
+                                <img class="" src="storage/about.png" alt="Men Speaker">
                             </div>
                         </div>
                         <div class="col-md-6">
