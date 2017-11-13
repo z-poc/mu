@@ -1,0 +1,57 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+body{
+  background-color: white;
+}
+
+.video-container {
+  position:relative;
+  padding-bottom:56.25%;
+  padding-top:30px;
+  height:0;
+  overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+  position: absolute;
+  top: calc(25%/2);
+  left: calc(25%/2);
+  width: 75%;
+  height: 75%;
+}
+
+.video-area{
+  text-align: center;
+  background: url("/storage/ftc_sup.jpg");
+  background-size: cover;
+  h2{
+    font-size: 45px;
+    padding: 0;
+    margin: auto;
+    position: absolute;
+    top: 15px;
+    text-align: center;
+    width: 100%;
+    color: white;
+  }
+}
+
+header {
+  height: 300px;
+  max-width: 800px;
+  margin: auto;
+  background: url("/storage/logo.png");
+  background-size: cover;
+}
+
+.green_stripe{
+  background-color: rgba(0,255,0,0.3) !important;
+}
