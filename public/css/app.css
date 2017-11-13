@@ -8401,3 +8401,28 @@ header {
   background-color: rgba(0, 255, 0, 0.3) !important;
 }
 
+.navi {
+  color: black !important;
+  font-size: 12pt;
+  text-decoration: none;
+}
+
+.navi:hover {
+  color: black;
+  font-size: 14pt;
+  text-decoration: none !important;
+}
+
+.navbar-right li {
+  list-style: none;
+}
+
+.panel {
+  margin-top: 22px;
+}
+
+.panel-heading {
+  text-align: center;
+  font-weight: bold;
+}
+
