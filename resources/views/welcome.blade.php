@@ -9,15 +9,15 @@
     <!-- Font Awesome -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
     <!-- Slick slider -->
-    <link href="css/slick.css" rel="stylesheet">
+    <link href="{{ asset('css/slick.css') }}" rel="stylesheet">
     <!-- Theme color -->
-    <link href="css/theme-color/green-theme.css" rel="stylesheet">
+    <link href="{{ asset('css/theme-color/green-theme.css') }}" rel="stylesheet">
 
     <!-- Main Style -->
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/app.css" rel="stylesheet">
+    <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
     <!-- Fonts -->
 
@@ -54,7 +54,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="mu-about-left">
-                                <img class="" src="storage/about.png" alt="Men Speaker">
+                                <img class="" src="{{ asset('storage/about.png') }}" alt="Men Speaker">
                             </div>
                         </div>
                         <div class="col-md-6">
