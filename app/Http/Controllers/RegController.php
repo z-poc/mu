@@ -3,8 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Tour;
-use App\Ultra;
+use App\tour;
+use App\ultra;
 
 class RegController extends Controller
 {
