@@ -5,7 +5,7 @@
                 <div class="mu-pricing-area">
 
                     <div class="mu-title-area">
-                        <h2 class="mu-title">Haladás - FTC ajánlatunk hamarosan...</h2>
+                        <h2 class="mu-title">Haladás - FTC ajánlatunk:</h2>
 
                         <p>
                             Minden csomag alatt megtalálhatod, hogy mit tartalmaz. Mindent egyben intézünk. Póló, meccsjegy, Végel busz.
