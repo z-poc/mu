@@ -29,12 +29,12 @@
 
                                         <div class="mu-single-price-head">
                                             <span class="mu-currency">HUF</span>
-                                            <span class="mu-rate">3.200</span>
+                                            <span class="mu-rate">4.500</span>
                                         </div>
                                         <h3 class="mu-price-title">Csak póló</h3>
                                         <ul>
                                             <li>&nbsp;</li>
-                                            <li>Fekete MU póló (3.200 Ft)</li>
+                                            <li>Fekete MU póló (4.500 Ft)</li>
                                             <li>&nbsp;</li>
                                         </ul>
                                         <a class="mu-register-btn" href="#mu-register"> Register Now</a>
@@ -44,11 +44,11 @@
                                     <div class="mu-single-price mu-popular-price">
                                         <div class="mu-single-price-head">
                                             <span class="mu-currency">HUF</span>
-                                            <span class="mu-rate">9.200</span>
+                                            <span class="mu-rate">10.500</span>
                                         </div>
                                         <h3 class="mu-price-title">Túra + Póló</h3>
                                         <ul>
-                                            <li>Fekete MU póló (3.200 Ft)</li>
+                                            <li>Fekete MU póló (4.500 Ft)</li>
                                             <li>Meccs jegy (1.500 Ft)</li>
                                             <li>Helyfoglalás a buszon (4.500 Ft)</li>
                                         </ul>
