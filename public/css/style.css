@@ -574,14 +574,14 @@ button:focus {
 .mu-schedule-area {
 	display: inline;
 	float: left;
-	padding: 100px 0;
+	padding: 25px 0;
 	width: 100%;
 }
 
 .mu-schedule-content-area  {
 	display: inline;
 	float: left;
-	margin-top: 50px;
+	margin-top: 10px;
 	width: 100%;
 }
 
@@ -613,7 +613,7 @@ button:focus {
 }
 
 .mu-schedule-content{
-	margin-top: 50px;
+	margin-top: 20px;
 }
 
 .mu-event-timeline ul li {

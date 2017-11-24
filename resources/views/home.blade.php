@@ -5,7 +5,6 @@
 <!-- Start main content -->
 <main role="main">
     @include('components.video')
-    @include('components.pricing')
-    @include('components.reg')
+    @include('events.20171125')
 </main>
 @endsection
