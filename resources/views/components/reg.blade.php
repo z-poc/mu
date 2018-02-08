@@ -25,9 +25,8 @@
                                     </div>
                                     <div class="form-group">
                                         <select class="form-control" name="mc-ticket" id="mc-ticket">
-                                            <option value="Polo">Csak póló</option>
-                                            <option value="Minden">Túra + póló</option>
-                                            <option value="Tura">Csak túra</option>
+                                            <option value="Kell">Kell póló</option>
+                                            <option value="Nem kell">Nem kell póló</option>
                                         </select>
                                     </div>
                                     <div class="form-group">
